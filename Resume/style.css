@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header ,.profile{
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+  padding: 12px 0px;
+}
+
+h5{
+  background-color: #3E3E3E;
+  color: #fff;
+  padding: 4px;
+  font-size: 24px;
+  width: fit-content;
+  text-align: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.caps{
+  text-transform: uppercase;
+}
+
+.txt-color{
+  color: #81C240;
+}
+
+.header{
+  background-color: #3E3E3E;
+  color: #fff;
+}
+
+h2{
+  background-color: #3E3E3E;
+  color: #fff;
+  padding: 4px;
+  width: fit-content;
+}
+
+.two-by-two{
+  display: flex;
+  padding: 0px 32px;
+}
+
+.edu-column , .exp-column{
+  width: 60%;
+}
+
+.contact-column, .Hobbies-column{
+  width: 30%;
+}
+
+.main-container{
+  border-bottom: solid 32px #81C240;
+  
+}
